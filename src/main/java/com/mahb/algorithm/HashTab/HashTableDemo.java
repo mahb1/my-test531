@@ -1,7 +1,7 @@
 package com.mahb.algorithm.HashTab;
 
-import org.springframework.beans.propertyeditors.CurrencyEditor;
-import org.springframework.web.servlet.HandlerAdapter;
+// import org.springframework.beans.propertyeditors.CurrencyEditor;
+// import org.springframework.web.servlet.HandlerAdapter;
 
 import java.util.Hashtable;
 import java.util.Scanner;
